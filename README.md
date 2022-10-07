@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Harsh-Veliyat
-- 👀 I’m interested in Programming in C++, learning AI/ML, Game development. 
-- 🌱 I’m currently pursuing my Masters in Information Technology at DAIICT, Gandhinagar, Gujarat, India
+- 👀 I’m interested in Programming in Python, learning AI/ML, Game development. 
 - 📫 How to reach me via linked in: https://www.linkedin.com/in/harsh-veliyat-3513041a8/
 
 <!---
